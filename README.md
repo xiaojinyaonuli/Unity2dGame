@@ -3,7 +3,11 @@
 # Hello,EveryOne
 这是一个Unity2d横版战斗游戏
 
-我用的版本为2019.3.15f1
+KnightDream(game)为游戏文件，打开其中的KnightDream.exe文件即可直接玩
+
+project为项目总文件，如果您想查看我的代码，可以用Unity打开
+
+我用的版本为2019.3.15f1,我的场景大多数都用了通用渲染管线(URP),如果你想打开此项目并且用了和我不同的版本可能会出现URP失效问题（刀的炫光等），如果您对Unity的URP不太熟悉，推荐您使用和我相同的版本
 
 ![Image text](https://github.com/xiaojinyaonuli/Unity2dGame/blob/master/Image/6DA_9Q%7D%25G7CAK2O4G7XXTJ9.png)
 
