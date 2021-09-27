@@ -1,0 +1,3 @@
+knight :你好
+king: 你是？
+knight:我是来拯救王国的骑士

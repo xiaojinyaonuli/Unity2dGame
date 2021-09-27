@@ -1,0 +1,74 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Skill_i
+  - SkillPoint
+  - Skill_o
+  - Pills
+  - potion
+  - "\u94BB\u77F3"
+  - objectcollect
+  - Box
+  - DarkEnemy
+  - DarkEnemy1
+  - BOSS
+  - "\u94C1\u5320"
+  - "\u5192\u9669\u5BB6"
+  - king
+  - floatUI
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Enemy
+  - Skill
+  - Goods
+  - box
+  - BBox
+  - EnemyAir
+  - minimap
+  - background
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 28252603
+    locked: 0
+  - name: forground
+    uniqueID: 976492329
+    locked: 0
+  - name: goods
+    uniqueID: 170363021
+    locked: 0
+  - name: enemy
+    uniqueID: 3309068029
+    locked: 0
+  - name: player
+    uniqueID: 452224885
+    locked: 0

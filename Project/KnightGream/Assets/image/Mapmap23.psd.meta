@@ -1,0 +1,3656 @@
+fileFormatVersion: 2
+guid: 594b00e704755f24ab3f694f9c752ab1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7468930051587435744
+    second: Mapmap23_0
+  - first:
+      213: 134609265628210993
+    second: Mapmap23_1
+  - first:
+      213: -1800610693315940390
+    second: Mapmap23_2
+  - first:
+      213: 5379098438282251981
+    second: Mapmap23_3
+  - first:
+      213: -944157316289656646
+    second: Mapmap23_4
+  - first:
+      213: 7679879804065221609
+    second: Mapmap23_5
+  - first:
+      213: 5986423610928442324
+    second: Mapmap23_6
+  - first:
+      213: -8099343806011506295
+    second: Mapmap23_7
+  - first:
+      213: 6911368047816522747
+    second: Mapmap23_8
+  - first:
+      213: -129893279355187706
+    second: Mapmap23_9
+  - first:
+      213: -9063414391170656710
+    second: Mapmap23_10
+  - first:
+      213: 8718900830267518484
+    second: Mapmap23_11
+  - first:
+      213: 7068777597717487384
+    second: Mapmap23_12
+  - first:
+      213: 8680387032438092354
+    second: Mapmap23_13
+  - first:
+      213: 2967169237916748525
+    second: Mapmap23_14
+  - first:
+      213: 3121684757181065599
+    second: Mapmap23_15
+  - first:
+      213: 3089230191102877995
+    second: Mapmap23_16
+  - first:
+      213: 7773885671911102600
+    second: Mapmap23_17
+  - first:
+      213: 9075301648986839842
+    second: Mapmap23_18
+  - first:
+      213: 8280397010711382760
+    second: Mapmap23_19
+  - first:
+      213: 7387503213088574966
+    second: Mapmap23_20
+  - first:
+      213: 3862432382054479052
+    second: Mapmap23_21
+  - first:
+      213: 6347477076982425627
+    second: Mapmap23_22
+  - first:
+      213: 9010253528945311260
+    second: Mapmap23_23
+  - first:
+      213: 8246704717525861529
+    second: Mapmap23_24
+  - first:
+      213: 138326813481265256
+    second: Mapmap23_25
+  - first:
+      213: -7449875735715468015
+    second: Mapmap23_26
+  - first:
+      213: -7990394111926210862
+    second: Mapmap23_27
+  - first:
+      213: -3381477059782878903
+    second: Mapmap23_28
+  - first:
+      213: -1552747995211303991
+    second: Mapmap23_29
+  - first:
+      213: -2801347332549922986
+    second: Mapmap23_30
+  - first:
+      213: -3873659164194761068
+    second: Mapmap23_31
+  - first:
+      213: -7156836509442770578
+    second: Mapmap23_32
+  - first:
+      213: -7975712894350887974
+    second: Mapmap23_33
+  - first:
+      213: 3625215371074030364
+    second: Mapmap23_34
+  - first:
+      213: 1072837874502438605
+    second: Mapmap23_35
+  - first:
+      213: 3929128998993693457
+    second: Mapmap23_36
+  - first:
+      213: -7408874213056849452
+    second: Mapmap23_37
+  - first:
+      213: -3082871470324929129
+    second: Mapmap23_38
+  - first:
+      213: 5709703865174123000
+    second: Mapmap23_39
+  - first:
+      213: 8681687432091617614
+    second: Mapmap23_40
+  - first:
+      213: -5367575498272494261
+    second: Mapmap23_41
+  - first:
+      213: 8516106008500229459
+    second: Mapmap23_42
+  - first:
+      213: 7828583901820659463
+    second: Mapmap23_43
+  - first:
+      213: -726545101847187546
+    second: Mapmap23_44
+  - first:
+      213: -1191752873297631574
+    second: Mapmap23_45
+  - first:
+      213: -2646656845002971435
+    second: Mapmap23_46
+  - first:
+      213: 4977585871680645246
+    second: Mapmap23_47
+  - first:
+      213: -9024369053323551241
+    second: Mapmap23_48
+  - first:
+      213: 4305658478319745400
+    second: Mapmap23_49
+  - first:
+      213: 2511018312214059858
+    second: Mapmap23_50
+  - first:
+      213: 9035707549442156281
+    second: Mapmap23_51
+  - first:
+      213: -3466839710998916693
+    second: Mapmap23_52
+  - first:
+      213: -213664567024395890
+    second: Mapmap23_53
+  - first:
+      213: 9129486888791039368
+    second: Mapmap23_54
+  - first:
+      213: 9109417690467212591
+    second: Mapmap23_55
+  - first:
+      213: 7569123990980947600
+    second: Mapmap23_56
+  - first:
+      213: 234833899640533518
+    second: Mapmap23_57
+  - first:
+      213: -539663634535745368
+    second: Mapmap23_58
+  - first:
+      213: -470718797541890819
+    second: Mapmap23_59
+  - first:
+      213: 5052040148329540331
+    second: Mapmap23_60
+  - first:
+      213: 6844039055095794323
+    second: Mapmap23_61
+  - first:
+      213: -2661919425257059355
+    second: Mapmap23_62
+  - first:
+      213: -3391687790091654050
+    second: Mapmap23_63
+  - first:
+      213: -3963850137194959594
+    second: Mapmap23_64
+  - first:
+      213: -3908728930799390723
+    second: Mapmap23_65
+  - first:
+      213: 5169855302679679216
+    second: Mapmap23_66
+  - first:
+      213: -7644143535222486455
+    second: Mapmap23_67
+  - first:
+      213: -6762714501613125754
+    second: Mapmap23_68
+  - first:
+      213: -6917912815824530752
+    second: Mapmap23_69
+  - first:
+      213: -3516226643464272687
+    second: Mapmap23_70
+  - first:
+      213: 520412546328996164
+    second: Mapmap23_71
+  - first:
+      213: 6685528832706836622
+    second: Mapmap23_72
+  - first:
+      213: -3507571716302719313
+    second: Mapmap23_73
+  - first:
+      213: 3486326314180012098
+    second: Mapmap23_74
+  - first:
+      213: 7495791476814489883
+    second: Mapmap23_75
+  - first:
+      213: -6426705849552686084
+    second: Mapmap23_76
+  - first:
+      213: 6665396857106900153
+    second: Mapmap23_77
+  - first:
+      213: 1030904887341243379
+    second: Mapmap23_78
+  - first:
+      213: -2527614807460198064
+    second: Mapmap23_79
+  - first:
+      213: -8652936236245833277
+    second: Mapmap23_80
+  - first:
+      213: 9175841247299218510
+    second: Mapmap23_81
+  - first:
+      213: -5053056409987392564
+    second: Mapmap23_82
+  - first:
+      213: 7019683695404583188
+    second: Mapmap23_83
+  - first:
+      213: -7795700692825405299
+    second: Mapmap23_84
+  - first:
+      213: -3019669339163319835
+    second: Mapmap23_85
+  - first:
+      213: -7330741880303784432
+    second: Mapmap23_86
+  - first:
+      213: -8357008522465825443
+    second: Mapmap23_87
+  - first:
+      213: 1688314755675639475
+    second: Mapmap23_88
+  - first:
+      213: 3678112346761533112
+    second: Mapmap23_89
+  - first:
+      213: -2864185625648776892
+    second: Mapmap23_90
+  - first:
+      213: -968099105124017012
+    second: Mapmap23_91
+  - first:
+      213: 7897324420080280333
+    second: Mapmap23_92
+  - first:
+      213: 8118777532831689337
+    second: Mapmap23_93
+  - first:
+      213: 5194716423573846940
+    second: Mapmap23_94
+  - first:
+      213: -7043946826274786370
+    second: Mapmap23_95
+  - first:
+      213: 6198752330284846338
+    second: Mapmap23_96
+  - first:
+      213: 8237815395805046964
+    second: Mapmap23_97
+  - first:
+      213: 2570585526236903248
+    second: Mapmap23_98
+  - first:
+      213: -9095706439943385706
+    second: Mapmap23_99
+  - first:
+      213: 6343031720894898643
+    second: Mapmap23_100
+  - first:
+      213: 4348697191433713015
+    second: Mapmap23_101
+  - first:
+      213: 605737095759646487
+    second: Mapmap23_102
+  - first:
+      213: 522675130866098850
+    second: Mapmap23_103
+  - first:
+      213: 3734849200499144276
+    second: Mapmap23_104
+  - first:
+      213: -242697146613191881
+    second: Mapmap23_105
+  - first:
+      213: 8850230728911847134
+    second: Mapmap23_106
+  - first:
+      213: -5629978524262356595
+    second: Mapmap23_107
+  - first:
+      213: -5198023680451558095
+    second: Mapmap23_108
+  - first:
+      213: 6683278222812468593
+    second: Mapmap23_109
+  - first:
+      213: 1042564740237893151
+    second: Mapmap23_110
+  - first:
+      213: 7412364050073612079
+    second: Mapmap23_111
+  - first:
+      213: 1199015381798480798
+    second: Mapmap23_112
+  - first:
+      213: 3245950266326665320
+    second: Mapmap23_113
+  - first:
+      213: 4659466784513003269
+    second: Mapmap23_114
+  - first:
+      213: 1274968612933862142
+    second: Mapmap23_115
+  - first:
+      213: 7377148528529380044
+    second: Mapmap23_116
+  - first:
+      213: 7755029724790063876
+    second: Mapmap23_117
+  - first:
+      213: -4426961613397841475
+    second: Mapmap23_118
+  - first:
+      213: 8045893951570591614
+    second: Mapmap23_119
+  - first:
+      213: -5158659183627541991
+    second: Mapmap23_120
+  - first:
+      213: -3099966997530066665
+    second: Mapmap23_121
+  - first:
+      213: -294156526545468412
+    second: Mapmap23_122
+  - first:
+      213: -1495283524755930426
+    second: Mapmap23_123
+  - first:
+      213: -8879140828279975227
+    second: Mapmap23_124
+  - first:
+      213: 6764755709886622277
+    second: Mapmap23_125
+  - first:
+      213: -471416376554255437
+    second: Mapmap23_126
+  - first:
+      213: 429432572583388030
+    second: Mapmap23_127
+  - first:
+      213: 937264617345957926
+    second: Mapmap23_128
+  - first:
+      213: 2163762607936639379
+    second: Mapmap23_129
+  - first:
+      213: 8801349539435684873
+    second: Mapmap23_130
+  - first:
+      213: 1645624876780652714
+    second: Mapmap23_131
+  - first:
+      213: -5562030117703992319
+    second: Mapmap23_132
+  - first:
+      213: 3395820593227841097
+    second: Mapmap23_133
+  - first:
+      213: -8695144163829544523
+    second: Mapmap23_134
+  - first:
+      213: -7017698960503199932
+    second: Mapmap23_135
+  - first:
+      213: -1616514151995335458
+    second: Mapmap23_136
+  - first:
+      213: 2993985256165032804
+    second: Mapmap23_137
+  - first:
+      213: -675930689884324845
+    second: Mapmap23_138
+  - first:
+      213: 3927148474636059554
+    second: Mapmap23_139
+  - first:
+      213: -309882307046212858
+    second: Mapmap23_140
+  - first:
+      213: 3776389573048205074
+    second: Mapmap23_141
+  - first:
+      213: -6641226778953822887
+    second: Mapmap23_142
+  - first:
+      213: -401696931812757983
+    second: Mapmap23_143
+  - first:
+      213: 8575739910260866621
+    second: Mapmap23_144
+  - first:
+      213: 6046575391757304280
+    second: Mapmap23_145
+  - first:
+      213: -807595007840501997
+    second: Mapmap23_146
+  - first:
+      213: -2078077432869232823
+    second: Mapmap23_147
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Mapmap23_0
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 9612
+        width: 437
+        height: 1036
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02314eea0b7095890800000000000000
+      internalID: -7468930051587435744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_1
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 9612
+        width: 593
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137ee35f96a3ed100800000000000000
+      internalID: 134609265628210993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_2
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 9612
+        width: 453
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf222e4d12f207e0800000000000000
+      internalID: -1800610693315940390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_3
+      rect:
+        serializedVersion: 2
+        x: 1848
+        y: 9612
+        width: 364
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce0ca9a78566aa40800000000000000
+      internalID: 5379098438282251981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_4
+      rect:
+        serializedVersion: 2
+        x: 2243
+        y: 9612
+        width: 426
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab808765ceda5e2f0800000000000000
+      internalID: -944157316289656646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_5
+      rect:
+        serializedVersion: 2
+        x: 2690
+        y: 9612
+        width: 519
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9eb0107fdf9649a60800000000000000
+      internalID: 7679879804065221609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_6
+      rect:
+        serializedVersion: 2
+        x: 3314
+        y: 9612
+        width: 415
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dba6648e8c041350800000000000000
+      internalID: 5986423610928442324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_7
+      rect:
+        serializedVersion: 2
+        x: 3854
+        y: 9612
+        width: 364
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9818ce878b9599f80800000000000000
+      internalID: -8099343806011506295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_8
+      rect:
+        serializedVersion: 2
+        x: 4312
+        y: 9612
+        width: 343
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfbb61a1f9c1aef50800000000000000
+      internalID: 6911368047816522747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_9
+      rect:
+        serializedVersion: 2
+        x: 4739
+        y: 9612
+        width: 381
+        height: 440
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60ec25920c6823ef0800000000000000
+      internalID: -129893279355187706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_10
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 9132
+        width: 395
+        height: 437
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a361c1a91a8483280800000000000000
+      internalID: -9063414391170656710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_11
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 9044
+        width: 853
+        height: 525
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41e24f34c12cff870800000000000000
+      internalID: 8718900830267518484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_12
+      rect:
+        serializedVersion: 2
+        x: 1580
+        y: 9040
+        width: 559
+        height: 456
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81f903ce5c7591260800000000000000
+      internalID: 7068777597717487384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_13
+      rect:
+        serializedVersion: 2
+        x: 2186
+        y: 9040
+        width: 561
+        height: 456
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242316de30ee67870800000000000000
+      internalID: 8680387032438092354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_14
+      rect:
+        serializedVersion: 2
+        x: 2877
+        y: 9040
+        width: 410
+        height: 456
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dea8e7e73b08d2920800000000000000
+      internalID: 2967169237916748525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_15
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 9040
+        width: 286
+        height: 456
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f79678c4fb3725b20800000000000000
+      internalID: 3121684757181065599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_16
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 9044
+        width: 312
+        height: 525
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b21691acd762fda20800000000000000
+      internalID: 3089230191102877995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_17
+      rect:
+        serializedVersion: 2
+        x: 4208
+        y: 9040
+        width: 436
+        height: 377
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88892cea4d362eb60800000000000000
+      internalID: 7773885671911102600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_18
+      rect:
+        serializedVersion: 2
+        x: 4671
+        y: 9061
+        width: 561
+        height: 347
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b906944c2f1fd70800000000000000
+      internalID: 9075301648986839842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_19
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 8394
+        width: 868
+        height: 577
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea88a6b531e9e270800000000000000
+      internalID: 8280397010711382760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_20
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 8399
+        width: 810
+        height: 536
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd8339180fa58660800000000000000
+      internalID: 7387503213088574966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_21
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 8483
+        width: 405
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc4b25599cd1a9530800000000000000
+      internalID: 3862432382054479052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_22
+      rect:
+        serializedVersion: 2
+        x: 2399
+        y: 8483
+        width: 405
+        height: 400
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b18e87965c4c61850800000000000000
+      internalID: 6347477076982425627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_23
+      rect:
+        serializedVersion: 2
+        x: 2825
+        y: 8483
+        width: 385
+        height: 389
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ebef0a8d9da0d70800000000000000
+      internalID: 9010253528945311260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_24
+      rect:
+        serializedVersion: 2
+        x: 3288
+        y: 8399
+        width: 311
+        height: 535
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 994caa76f3e227270800000000000000
+      internalID: 8246704717525861529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_25
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 8399
+        width: 312
+        height: 536
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8686674018f6be100800000000000000
+      internalID: 138326813481265256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_26
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7620
+        width: 369
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11da0ef4d79bc9890800000000000000
+      internalID: -7449875735715468015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 7620
+        width: 372
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dee34fd3ea6c1190800000000000000
+      internalID: -7990394111926210862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_28
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 7620
+        width: 371
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 949528ba7849211d0800000000000000
+      internalID: -3381477059782878903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_29
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 7620
+        width: 369
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c3fab7dce7837ae0800000000000000
+      internalID: -1552747995211303991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_30
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 7620
+        width: 369
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65fafd6717d9f19d0800000000000000
+      internalID: -2801347332549922986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_31
+      rect:
+        serializedVersion: 2
+        x: 2035
+        y: 7620
+        width: 369
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4961c31838ffd3ac0800000000000000
+      internalID: -3873659164194761068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_32
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 7620
+        width: 369
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e69fd1bfc1fcdac90800000000000000
+      internalID: -7156836509442770578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_33
+      rect:
+        serializedVersion: 2
+        x: 2815
+        y: 7620
+        width: 373
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad376b53163905190800000000000000
+      internalID: -7975712894350887974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_34
+      rect:
+        serializedVersion: 2
+        x: 3208
+        y: 7620
+        width: 370
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b472b3c2a5f4230800000000000000
+      internalID: 3625215371074030364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_35
+      rect:
+        serializedVersion: 2
+        x: 3574
+        y: 7620
+        width: 373
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce8d4bdc5c73ee00800000000000000
+      internalID: 1072837874502438605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_36
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 7620
+        width: 369
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11b84b5d102178630800000000000000
+      internalID: 3929128998993693457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_37
+      rect:
+        serializedVersion: 2
+        x: 4333
+        y: 7620
+        width: 368
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d9d13938246e2990800000000000000
+      internalID: -7408874213056849452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_38
+      rect:
+        serializedVersion: 2
+        x: 4708
+        y: 7620
+        width: 372
+        height: 467
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79da8134bb07735d0800000000000000
+      internalID: -3082871470324929129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_39
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 7089
+        width: 369
+        height: 468
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f1e0600a61fc3f40800000000000000
+      internalID: 5709703865174123000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_40
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 7089
+        width: 369
+        height: 468
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e494bc0d8bc8b7870800000000000000
+      internalID: 8681687432091617614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_41
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 7089
+        width: 342
+        height: 452
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4da060e58a8285b0800000000000000
+      internalID: -5367575498272494261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_42
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 7089
+        width: 358
+        height: 452
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355d9326b494f2670800000000000000
+      internalID: 8516106008500229459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_43
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 7089
+        width: 388
+        height: 452
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 707ac52c497b4ac60800000000000000
+      internalID: 7828583901820659463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_44
+      rect:
+        serializedVersion: 2
+        x: 2503
+        y: 7079
+        width: 332
+        height: 462
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6af291b441bcae5f0800000000000000
+      internalID: -726545101847187546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_45
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 7089
+        width: 327
+        height: 452
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa62b0f631b067fe0800000000000000
+      internalID: -1191752873297631574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_46
+      rect:
+        serializedVersion: 2
+        x: 3299
+        y: 7089
+        width: 295
+        height: 452
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6ed3f3f9f254bd0800000000000000
+      internalID: -2646656845002971435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_47
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 7089
+        width: 296
+        height: 452
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7827885affe31540800000000000000
+      internalID: 4977585871680645246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_48
+      rect:
+        serializedVersion: 2
+        x: 4057
+        y: 6668
+        width: 306
+        height: 873
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd1f9eb82003c280800000000000000
+      internalID: -9024369053323551241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_49
+      rect:
+        serializedVersion: 2
+        x: 4468
+        y: 7089
+        width: 259
+        height: 468
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 879b56cd295c0cb30800000000000000
+      internalID: 4305658478319745400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_50
+      rect:
+        serializedVersion: 2
+        x: 4863
+        y: 7089
+        width: 202
+        height: 468
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b150cd9dde8d220800000000000000
+      internalID: 2511018312214059858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6237
+        width: 672
+        height: 441
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6a0da9428456d70800000000000000
+      internalID: 9035707549442156281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6668
+        width: 361
+        height: 421
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba111b4a6af43efc0800000000000000
+      internalID: -3466839710998916693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_53
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 6674
+        width: 377
+        height: 409
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e895c655539e80df0800000000000000
+      internalID: -213664567024395890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_54
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 6668
+        width: 258
+        height: 421
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88dd9fb84f372be70800000000000000
+      internalID: 9129486888791039368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_55
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 6668
+        width: 390
+        height: 415
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2d15fe20272b6e70800000000000000
+      internalID: 9109417690467212591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_56
+      rect:
+        serializedVersion: 2
+        x: 1572
+        y: 6668
+        width: 397
+        height: 415
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e6e47ba2eea0960800000000000000
+      internalID: 7569123990980947600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_57
+      rect:
+        serializedVersion: 2
+        x: 2025
+        y: 6668
+        width: 335
+        height: 415
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e023b41003c424300800000000000000
+      internalID: 234833899640533518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_58
+      rect:
+        serializedVersion: 2
+        x: 2410
+        y: 6668
+        width: 327
+        height: 416
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8fc4d98cab288f0800000000000000
+      internalID: -539663634535745368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_59
+      rect:
+        serializedVersion: 2
+        x: 2809
+        y: 6668
+        width: 385
+        height: 421
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df4aa636fbba779f0800000000000000
+      internalID: -470718797541890819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_60
+      rect:
+        serializedVersion: 2
+        x: 3225
+        y: 6668
+        width: 293
+        height: 416
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beaa1308fb37c1640800000000000000
+      internalID: 5052040148329540331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_61
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 6668
+        width: 246
+        height: 416
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a82e36249eafe50800000000000000
+      internalID: 6844039055095794323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_62
+      rect:
+        serializedVersion: 2
+        x: 3834
+        y: 6668
+        width: 233
+        height: 421
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb47dcd266fe0bd0800000000000000
+      internalID: -2661919425257059355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_63
+      rect:
+        serializedVersion: 2
+        x: 4374
+        y: 6668
+        width: 312
+        height: 415
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5cae82cced4ee0d0800000000000000
+      internalID: -3391687790091654050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_64
+      rect:
+        serializedVersion: 2
+        x: 4717
+        y: 6668
+        width: 364
+        height: 416
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61d6c953d439df8c0800000000000000
+      internalID: -3963850137194959594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_65
+      rect:
+        serializedVersion: 2
+        x: 4947
+        y: 6169
+        width: 386
+        height: 539
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dffe86c2fb761c9c0800000000000000
+      internalID: -3908728930799390723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_66
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 6169
+        width: 397
+        height: 457
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f05468b1040fb740800000000000000
+      internalID: 5169855302679679216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_67
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 6411
+        width: 358
+        height: 153
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a07f284fb8ae590800000000000000
+      internalID: -7644143535222486455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_68
+      rect:
+        serializedVersion: 2
+        x: 1505
+        y: 6169
+        width: 395
+        height: 457
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f77fdbdf20622a0800000000000000
+      internalID: -6762714501613125754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_69
+      rect:
+        serializedVersion: 2
+        x: 1936
+        y: 6169
+        width: 458
+        height: 457
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c218a952f2aeff90800000000000000
+      internalID: -6917912815824530752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_70
+      rect:
+        serializedVersion: 2
+        x: 2414
+        y: 6169
+        width: 593
+        height: 447
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d44c8e5f7ad33fc0800000000000000
+      internalID: -3516226643464272687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_71
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 6169
+        width: 560
+        height: 457
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449a8902470e83700800000000000000
+      internalID: 520412546328996164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_72
+      rect:
+        serializedVersion: 2
+        x: 3563
+        y: 6169
+        width: 436
+        height: 457
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e887f194d05c7cc50800000000000000
+      internalID: 6685528832706836622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_73
+      rect:
+        serializedVersion: 2
+        x: 4057
+        y: 6169
+        width: 379
+        height: 457
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa6b191ab1a925fc0800000000000000
+      internalID: -3507571716302719313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_74
+      rect:
+        serializedVersion: 2
+        x: 4499
+        y: 6169
+        width: 379
+        height: 457
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 248ebc7bf4be16030800000000000000
+      internalID: 3486326314180012098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_75
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 5618
+        width: 426
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19aded32a6660860800000000000000
+      internalID: 7495791476814489883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_76
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 5618
+        width: 550
+        height: 511
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf3bc797411cfc6a0800000000000000
+      internalID: -6426705849552686084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_77
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 5618
+        width: 561
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b4acd2702f308c50800000000000000
+      internalID: 6665396857106900153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_78
+      rect:
+        serializedVersion: 2
+        x: 1687
+        y: 5618
+        width: 779
+        height: 512
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb503778828e4e00800000000000000
+      internalID: 1030904887341243379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_79
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 6034
+        width: 369
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059415879bb1cecd0800000000000000
+      internalID: -2527614807460198064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_80
+      rect:
+        serializedVersion: 2
+        x: 3298
+        y: 5618
+        width: 468
+        height: 442
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9267e96589ae780800000000000000
+      internalID: -8652936236245833277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_81
+      rect:
+        serializedVersion: 2
+        x: 4202
+        y: 5597
+        width: 510
+        height: 483
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4ca5acaff2275f70800000000000000
+      internalID: 9175841247299218510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_82
+      rect:
+        serializedVersion: 2
+        x: 4831
+        y: 5597
+        width: 453
+        height: 463
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccbd0b4a7ffefd9b0800000000000000
+      internalID: -5053056409987392564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_83
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 5618
+        width: 748
+        height: 410
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419013c012dea6160800000000000000
+      internalID: 7019683695404583188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_84
+      rect:
+        serializedVersion: 2
+        x: 3704
+        y: 5780
+        width: 426
+        height: 207
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8800e4f58b10d390800000000000000
+      internalID: -7795700692825405299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_85
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 5072
+        width: 312
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e128042cbaf716d0800000000000000
+      internalID: -3019669339163319835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_86
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 5072
+        width: 457
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01ee96c8919f34a90800000000000000
+      internalID: -7330741880303784432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_87
+      rect:
+        serializedVersion: 2
+        x: 969
+        y: 5072
+        width: 468
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d2381b601f50c80800000000000000
+      internalID: -8357008522465825443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_88
+      rect:
+        serializedVersion: 2
+        x: 1463
+        y: 5072
+        width: 458
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bec81143591e6710800000000000000
+      internalID: 1688314755675639475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_89
+      rect:
+        serializedVersion: 2
+        x: 1926
+        y: 5072
+        width: 395
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b613b021b74b0330800000000000000
+      internalID: 3678112346761533112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_90
+      rect:
+        serializedVersion: 2
+        x: 2347
+        y: 5072
+        width: 338
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449bc6c395e5048d0800000000000000
+      internalID: -2864185625648776892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_91
+      rect:
+        serializedVersion: 2
+        x: 2726
+        y: 5072
+        width: 307
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8c95bb3efe9092f0800000000000000
+      internalID: -968099105124017012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_92
+      rect:
+        serializedVersion: 2
+        x: 3064
+        y: 5072
+        width: 499
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0327eed7bee89d60800000000000000
+      internalID: 7897324420080280333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_93
+      rect:
+        serializedVersion: 2
+        x: 3553
+        y: 5072
+        width: 493
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aead6a621bba070800000000000000
+      internalID: 8118777532831689337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_94
+      rect:
+        serializedVersion: 2
+        x: 4083
+        y: 5072
+        width: 426
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9bb1008017571840800000000000000
+      internalID: 5194716423573846940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_95
+      rect:
+        serializedVersion: 2
+        x: 4561
+        y: 5072
+        width: 463
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3b6239eafde3e90800000000000000
+      internalID: -7043946826274786370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_96
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 4516
+        width: 447
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20dc049e664660650800000000000000
+      internalID: 6198752330284846338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_97
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 4516
+        width: 449
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b82438e479925270800000000000000
+      internalID: 8237815395805046964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_98
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 4516
+        width: 458
+        height: 509
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0577c14aaed8ca320800000000000000
+      internalID: 2570585526236903248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_99
+      rect:
+        serializedVersion: 2
+        x: 1578
+        y: 4516
+        width: 498
+        height: 446
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d01f91f2f85c180800000000000000
+      internalID: -9095706439943385706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_100
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 4152
+        width: 554
+        height: 779
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1a9fa4eb9f60850800000000000000
+      internalID: 6343031720894898643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_101
+      rect:
+        serializedVersion: 2
+        x: 2903
+        y: 4152
+        width: 572
+        height: 810
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77535232e0da95c30800000000000000
+      internalID: 4348697191433713015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_102
+      rect:
+        serializedVersion: 2
+        x: 3610
+        y: 4152
+        width: 556
+        height: 779
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71fc704eda2086800800000000000000
+      internalID: 605737095759646487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_103
+      rect:
+        serializedVersion: 2
+        x: 4275
+        y: 4152
+        width: 489
+        height: 779
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a26434234ae04700800000000000000
+      internalID: 522675130866098850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_104
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3923
+        width: 468
+        height: 468
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 456376d4f89d4d330800000000000000
+      internalID: 3734849200499144276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_105
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 3923
+        width: 597
+        height: 468
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73bae142b34c1acf0800000000000000
+      internalID: -242697146613191881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_106
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 3814
+        width: 784
+        height: 577
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ede790915f552da70800000000000000
+      internalID: 8850230728911847134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_107
+      rect:
+        serializedVersion: 2
+        x: 2342
+        y: 3481
+        width: 348
+        height: 551
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89a3407c5c4ed1b0800000000000000
+      internalID: -5629978524262356595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_108
+      rect:
+        serializedVersion: 2
+        x: 2893
+        y: 3481
+        width: 369
+        height: 550
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 135cd90c009ecd7b0800000000000000
+      internalID: -5198023680451558095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_109
+      rect:
+        serializedVersion: 2
+        x: 3371
+        y: 3481
+        width: 298
+        height: 452
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17557d55226cfbc50800000000000000
+      internalID: 6683278222812468593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_110
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3325
+        width: 509
+        height: 504
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e1a358b1fe77e00800000000000000
+      internalID: 1042564740237893151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_111
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 3325
+        width: 400
+        height: 504
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2f6386c4d10ed660800000000000000
+      internalID: 7412364050073612079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_112
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 3211
+        width: 385
+        height: 551
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9be3581322c3a010800000000000000
+      internalID: 1199015381798480798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_113
+      rect:
+        serializedVersion: 2
+        x: 1993
+        y: 2696
+        width: 910
+        height: 634
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8684cf6c19eeb0d20800000000000000
+      internalID: 3245950266326665320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_114
+      rect:
+        serializedVersion: 2
+        x: 3043
+        y: 2696
+        width: 676
+        height: 634
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f01a58a50c9a040800000000000000
+      internalID: 4659466784513003269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_115
+      rect:
+        serializedVersion: 2
+        x: 3870
+        y: 2696
+        width: 348
+        height: 634
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef202b9c23991b110800000000000000
+      internalID: 1274968612933862142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_116
+      rect:
+        serializedVersion: 2
+        x: 4483
+        y: 2696
+        width: 359
+        height: 639
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc21a4a3085e06660800000000000000
+      internalID: 7377148528529380044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_117
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 2696
+        width: 427
+        height: 442
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40305b062766f9b60800000000000000
+      internalID: 7755029724790063876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_118
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 2696
+        width: 457
+        height: 457
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9a12f1ed54092c0800000000000000
+      internalID: -4426961613397841475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_119
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 2696
+        width: 364
+        height: 442
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f34d38be1c8af60800000000000000
+      internalID: 8045893951570591614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_120
+      rect:
+        serializedVersion: 2
+        x: 1528
+        y: 2696
+        width: 329
+        height: 442
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 912e292edc2c868b0800000000000000
+      internalID: -5158659183627541991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_121
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 2145
+        width: 381
+        height: 488
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71149c8a074baf4d0800000000000000
+      internalID: -3099966997530066665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_122
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 2145
+        width: 540
+        height: 405
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40405e69232faebf0800000000000000
+      internalID: -294156526545468412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_123
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 1973
+        width: 519
+        height: 660
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2cd6c7e8faf3be0800000000000000
+      internalID: -1495283524755930426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_124
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 1973
+        width: 685
+        height: 660
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c254bbd574f6c480800000000000000
+      internalID: -8879140828279975227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_125
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 2056
+        width: 528
+        height: 489
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a66181a7d31ed50800000000000000
+      internalID: 6764755709886622277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_126
+      rect:
+        serializedVersion: 2
+        x: 3335
+        y: 2057
+        width: 519
+        height: 504
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb8e2e9d413579f0800000000000000
+      internalID: -471416376554255437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_127
+      rect:
+        serializedVersion: 2
+        x: 3958
+        y: 2062
+        width: 515
+        height: 488
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73a0d746a6a5f500800000000000000
+      internalID: 429432572583388030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_128
+      rect:
+        serializedVersion: 2
+        x: 4604
+        y: 2056
+        width: 336
+        height: 494
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620c2712435d10d00800000000000000
+      internalID: 937264617345957926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_129
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1407
+        width: 380
+        height: 508
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3911658b0aa370e10800000000000000
+      internalID: 2163762607936639379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_130
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1407
+        width: 379
+        height: 508
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 904ac1a46cca42a70800000000000000
+      internalID: 8801349539435684873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_131
+      rect:
+        serializedVersion: 2
+        x: 1047
+        y: 1464
+        width: 390
+        height: 451
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa88e064b1f66d610800000000000000
+      internalID: 1645624876780652714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_132
+      rect:
+        serializedVersion: 2
+        x: 1531
+        y: 1178
+        width: 867
+        height: 737
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10cba3ca313bfc2b0800000000000000
+      internalID: -5562030117703992319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_133
+      rect:
+        serializedVersion: 2
+        x: 2529
+        y: 1110
+        width: 920
+        height: 805
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94e3d4476d0602f20800000000000000
+      internalID: 3395820593227841097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_134
+      rect:
+        serializedVersion: 2
+        x: 3657
+        y: 1314
+        width: 545
+        height: 601
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b9012ca374a45780800000000000000
+      internalID: -8695144163829544523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_135
+      rect:
+        serializedVersion: 2
+        x: 4489
+        y: 1178
+        width: 321
+        height: 737
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447249e0aff1c9e90800000000000000
+      internalID: -7017698960503199932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_136
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 580
+        width: 285
+        height: 748
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc1de381fcf099e0800000000000000
+      internalID: -1616514151995335458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_137
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 580
+        width: 493
+        height: 608
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46349784ab5cc8920800000000000000
+      internalID: 2993985256165032804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_138
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 580
+        width: 441
+        height: 442
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31cf8a86e9c9e96f0800000000000000
+      internalID: -675930689884324845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_139
+      rect:
+        serializedVersion: 2
+        x: 1832
+        y: 580
+        width: 395
+        height: 442
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a346e21bb8008630800000000000000
+      internalID: 3927148474636059554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_140
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 580
+        width: 348
+        height: 442
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60bf45efea313bbf0800000000000000
+      internalID: -309882307046212858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_141
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 580
+        width: 333
+        height: 442
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21ff60bfe4e686430800000000000000
+      internalID: 3776389573048205074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_142
+      rect:
+        serializedVersion: 2
+        x: 3194
+        y: 580
+        width: 395
+        height: 442
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95d45a76e6f95d3a0800000000000000
+      internalID: -6641226778953822887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_143
+      rect:
+        serializedVersion: 2
+        x: 3693
+        y: 580
+        width: 541
+        height: 379
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12eafefc4c2ec6af0800000000000000
+      internalID: -401696931812757983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_144
+      rect:
+        serializedVersion: 2
+        x: 4353
+        y: 611
+        width: 478
+        height: 348
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3e3d3d1306230770800000000000000
+      internalID: 8575739910260866621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_145
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 437
+        height: 468
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1005d5840c9e350800000000000000
+      internalID: 6046575391757304280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_146
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 91
+        width: 590
+        height: 281
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31fb9438e98dac4f0800000000000000
+      internalID: -807595007840501997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mapmap23_147
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 138
+        width: 711
+        height: 187
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fd21eb59f2923e0800000000000000
+      internalID: -2078077432869232823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
