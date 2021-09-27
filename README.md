@@ -2,6 +2,9 @@
 
 # Hello,EveryOne
 这是一个Unity2d横版战斗游戏
+
+我用的版本为2019.3.15f1
+
 ![Image text](https://github.com/xiaojinyaonuli/Unity2dGame/blob/master/Image/6DA_9Q%7D%25G7CAK2O4G7XXTJ9.png)
 
 此项目仅限于学习交流，如果您对我写的小Demo很感兴趣，您可以随时下载去查看，如果能帮到您我将感到很荣幸
