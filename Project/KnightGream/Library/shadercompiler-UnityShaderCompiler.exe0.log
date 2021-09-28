@@ -1,4 +1,8 @@
 Base path: 'G:/unityinstall/2019.3.15f1/Unity/Editor/Data', plugins path 'G:/unityinstall/2019.3.15f1/Unity/Editor/Data/PlaybackEngines'
 Cmd: initializeCompiler
+Cmd: preprocess
+  insize=4908 outsize=1731 ok=1
+Cmd: preprocess
+  insize=2832 outsize=1604 ok=1
 
 Quitting shader compiler process

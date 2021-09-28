@@ -24,7 +24,7 @@ public class Collect : MonoBehaviour
     // Update is called once per frame
     protected virtual  void Update()
     {
-         if(Input.GetKeyDown(KeyCode.E)&&IsCollider)
+         if(Input.GetKeyDown(KeyCode.Space)&&IsCollider)
          {
              keydown=true;
             

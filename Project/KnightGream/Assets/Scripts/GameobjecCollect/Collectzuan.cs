@@ -8,7 +8,7 @@ public class Collectzuan : Collect
     
    protected override void  Update()
    {
-        if(Input.GetKeyDown(KeyCode.E)&&IsCollider)
+        if(Input.GetKeyDown(KeyCode.Space)&&IsCollider)
          {
              keydown=true;
             
