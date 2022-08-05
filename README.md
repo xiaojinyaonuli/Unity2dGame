@@ -1,7 +1,8 @@
-# Unity2dGame
+# `action game`(2D)
 
-# Hello,EveryOne
-这是一个Unity2d横版战斗游戏
+**hello，Welcome your visit**<br>
+
+**`This is an action game`(2D)**<br>
 
 KnightDream(game)为游戏文件，打开其中的KnightDream.exe文件即可直接玩
 
